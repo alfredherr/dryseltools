@@ -23,10 +23,14 @@ hs_err_pid*
 
 # Ignored conventionally From Orion Projects
 *.iml
+*.project
+*.classpath
 **/dist/
 **/build/
 **/lib/
 **/target/
+**/target_json/
+**/target_junit/
 **/.settings/
 **/.idea/
 **/.metadata/
