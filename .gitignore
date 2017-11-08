@@ -20,3 +20,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Ignored conventionally From Orion Projects
+*.iml
+**/dist/
+**/build/
+**/lib/
+**/target/
+**/.settings/
+**/.idea/
+**/.metadata/
+**/.sass-cache/
+**/nodist/
+.DS_Store
+.cache
+.cache-main
+**/.vagrant/
+*.pyc
+**/*.css.map
+**/.advk.json
